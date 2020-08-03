@@ -9,4 +9,4 @@
 Use this code with Juypter notebook, pandas, zipfile and numpy to get a sense for how to tabulate data. 
 
 ## Code Structure
-![Example screenshot](./img/screenshot.png)
+![Code Structure](./temp_pic.png)
